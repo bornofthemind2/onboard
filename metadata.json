@@ -1,0 +1,8 @@
+{
+  "name": "Nine Days Landing",
+  "description": "An animated landing page that introduces the concepts of Plan, Reflect, and Explore, leading to the Nine Days experience.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
